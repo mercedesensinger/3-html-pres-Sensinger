@@ -24,7 +24,7 @@ body, html {
 
 .fullscreen-img-1 {
     /* The image used */
-    background-image: url("../img/denys-nevozhai-duo-xV0TU7s-unsplash.jpg");
+    background-image: url("../img/hand-2326058_1920.jpg");
 
     /* Full height */
     height: 100%;
@@ -39,6 +39,20 @@ body, html {
 .fullscreen-img-2 {
     /* The image used */
     background-image: url("../img/people-2567915_1920.jpg");
+
+    /* Full height */
+    height: 100%;
+    width:100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fullscreen-img-3 {
+    /* The image used */
+    background-image: url("../img/old-791756_1280.jpg");
 
     /* Full height */
     height: 100%;
@@ -86,9 +100,11 @@ figure {
 .w3-btn {
     color: black;
     font-size: 30px;
+    border-color: white;
 }
 
 .w3-btn:hover {
     color: black;
     font-size: 35px;
+    border-color: white;
 }
