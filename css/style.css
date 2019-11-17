@@ -98,13 +98,11 @@ figure {
 }
 
 .w3-btn {
-    color: black;
+    color: white;
     font-size: 30px;
-    border-color: white;
 }
 
 .w3-btn:hover {
-    color: black;
+    color: white;
     font-size: 35px;
-    border-color: white;
 }
